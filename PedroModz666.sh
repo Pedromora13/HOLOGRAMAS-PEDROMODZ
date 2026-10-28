@@ -5,7 +5,7 @@
 # ==========================================
 
 # --- CONFIGURACIÓN DE ACTUALIZACIÓN ONLINE ---
-VERSION_ACTUAL="1.0"
+VERSION_ACTUAL="1.1"
 CURL_PATH="/data/data/com.termux/files/usr/bin/curl"
 URL_VERSION="https://raw.githubusercontent.com/Pedromora13/HOLOGRAMAS-PEDROMODZ/main/version.txt"
 URL_SCRIPT="https://raw.githubusercontent.com/Pedromora13/HOLOGRAMAS-PEDROMODZ/main/PedroModz666.sh"
